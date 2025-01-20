@@ -1,3 +1,3 @@
 #Git course
 
-Este é um repo de teste
+my github profile: [github.com/yurig-figueiredo](https://github.com/yurig-figueiredo)
